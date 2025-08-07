@@ -15,7 +15,6 @@ Build a regression model that can accurately predict the compressive strength (M
 
 🔢 Features: 8 quantitative input features, 1 output target variable
 
-🌐 Source: Download Dataset (ZIP)
 
 🧪 Features
 | Feature                  | Unit         | Description                     |
